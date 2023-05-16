@@ -81,7 +81,7 @@
   </ul>
   <p>Your contributions are highly appreciated!</p>
   <h2>Contact</h2>
-  <p>If you have any questions or suggestions regarding this HackerRank journey or repository, feel free to reach out to me.</p>
+  <p>If you have any questions or suggestions regarding this HackerRank journey or repository, feel free to reach out to me <a href="mailto:ayushsiloiya@gmail.com">Ayush Siloiya</a>.</p>
   <p>Happy coding and happy problem-solving!</p>
   <p>Check out my HackerRank profile: <a href="https://www.hackerrank.com/ayush_cs_1062">@ayush_cs_1062</a></p>
 </body>
